@@ -1,0 +1,14 @@
+.App, .ColorPicker, .SizeSetting, .Reset, .Result {
+  box-sizing: border-box;
+}
+.active {
+  border: 3px solid rgb(183, 200, 183) !important;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
